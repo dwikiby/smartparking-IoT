@@ -6,3 +6,5 @@ Perangkat :
 2. Arduino Uno
 3. Sensor Infrared
 4. DC Motor Servo
+
+Web API Key = AIzaSyC0ryhVH-yUlOmGnAoAO-o4hSAojGxMQ9Y
