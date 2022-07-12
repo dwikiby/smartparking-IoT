@@ -1,10 +1,18 @@
 # Project Internet of Things 2021
-Smart parking Pemantaun Melalui Android
+Smart Car Prking Pemantauan Melalui Android dan Web
+
+Repository ini berisi Source Code dari sisi Mikrokontroler Wemos D1 R1
 
 Perangkat :
 1. Wemos D1 R1 
-2. Arduino Uno
+2. Arduino Uno R3
 3. Sensor Infrared
 4. DC Motor Servo
+5. Sensor TCRT-5000
 
-Web API Key = AIzaSyC0ryhVH-yUlOmGnAoAO-o4hSAojGxMQ9Y
+Library yang dibutuhkan :
+1. ArduinoJson - Untuk mengirim data sensor dengan format json
+2. FirebaseESP8266 - Untuk menghubungkan Realtime Database Firebase
+3. ESP8266WiFi - Library wifi esp8266 modul
+
+
